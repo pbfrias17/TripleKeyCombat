@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{3D7FF71B-D9EE-06F7-0A7E-602F5482DB0E}</ProjectGuid>
+    <ProjectGuid>{49B561DA-7706-3F73-6DE2-B23546659CA4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -47,6 +47,7 @@
   <ItemGroup>
      <Compile Include="Assets\NineBlockController.cs" />
      <Compile Include="Assets\PlayerController.cs" />
+     <Compile Include="Assets\SpawnController.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Program Files (D)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
